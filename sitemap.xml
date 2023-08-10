@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/products</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/overview</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/authentication</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/environments</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/sdk</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/mobile-apps</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/ios-quickstart</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/android-quickstart</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/cordova</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/react-native</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/oauth-for-mobile-apps</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/oauth-guide</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/establish-data</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/handling-the-redirect</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/sdk-callback-events</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/sdk-content-strings</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/type-definitions-sdk</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/account-data-retrieval</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/cashflow-data</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/deferred-payments</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/ig-disbursements</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/ig-instant-payouts</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/micro-deposit-challenges</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/ig-tokenization</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/trustly-id</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/ig-trustly-direct-debit-uk</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/vip</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/ig-server-side-establish</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/securing-requests</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/retrieve-bank-logo</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/testing</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/event-notifications-webhooks</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/errors</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/reference-pagination-filtering</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/idempotency</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/reference-recurring-payments</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/reference-reporting</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/reference-split-token</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/reference-transaction-id</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/type-definitions</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/merchant-portal-user-guide</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/transactions-1</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/search</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/transaction-table</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/transaction-details</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/transaction-types</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/transaction-status</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/recurring-schedules</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/reporting</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/funding-report</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/settlement-report</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/rtp-report</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/help</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/user-management</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/fi-status</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/branding-experience</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/mark-library</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/support</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/payments/reference/post-establish</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/payments/reference/get-transaction</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://amer.developers.trustly.com/payments/docs/payments/reference/post-customers-customerid</loc>
+  <lastmod>2023-08-10T14:44:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
